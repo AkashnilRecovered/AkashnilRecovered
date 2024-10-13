@@ -417,3 +417,21 @@ thats it lol
 # 1.0.0
 
 Initial release
+
+<p align="right">
+  <a href="#download">▲ Back to top</a></p>
+
+</details>
+
+# Issues & Bugs
+<details>
+  <summary>Click to expand</summary>
+
+- [ImVehFt 2.1.1](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) has problems with [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/). If it got fixed, I would have already upgraded [ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) from 2.0.2 to 2.1.1.
+
+<p align="right">
+  <a href="#download">▲ Back to top</a></p>
+
+</details>
+
+<p align="center">So what do you think? Is it better than [Jayshai's San Andreas Modpack](https://gist.github.com/jayshai/53f82023e2792c2b260f6f7df34ce87c)? Let me know!<p align="center">
