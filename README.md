@@ -24,3 +24,10 @@ I'll try to give you guys the download link 👍</p>
 # Requirements
 - *Atleast 25GB of disk space*
 - *Latest version of this modpack*
+
+# Installation Guide
+1. Download the modpack.
+2. Extract the files from the modpack into your GTA:SA root directory.
+3. Done!
+<p align="right">
+  <a href="#download">▲ Back to top</a></p>
