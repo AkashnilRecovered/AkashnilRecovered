@@ -31,7 +31,7 @@ I'll try to give you guys the download link 👍</p>
 
 - *Atleast 25GB of disk space*
 - *Latest version of this modpack*
-
+</details>
 # Installation Guide
 <details>
   <summary>Click to expand</summary>
@@ -41,7 +41,7 @@ I'll try to give you guys the download link 👍</p>
 3. Done!
 <p align="right">
   <a href="#download">▲ Back to top</a></p>
-
+</details>
 # Mods
 <details>
   <summary>Click to expand</summary>
