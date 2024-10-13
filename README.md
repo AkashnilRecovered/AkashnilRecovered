@@ -342,7 +342,9 @@ thats it lol
 
 - [RoSA Project Evolved (with Proper Player Retex) (public access)](https://www.mediafire.com/file/myuqu28ytpi3j6p/RoSA+Project+Evolved+-+July.7z/file)
 
-- Note: RoSA Project Evolved has not unlocked the Aug version yet, so I can't provide it because you and me don't believe on Patreon.
+- Note: RoSA Project Evolved has not unlocked the Aug version yet, so I can't provide it because you and me don't believe on Patreon's Upgrade to unlock.
+
+- [Ryomen Sukuna (type skn to activate](https://www.gtainside.com/en/sanandreas/mods/197125-ryomen-sukuna-mod-jujutsu-kaisen/)
 
 - [SA Cutscene Characters for gameplay](https://www.mixmods.com.br/2021/03/sa-cutscene-characters-for-gameplay-personagens-convertidos/)
 
@@ -361,3 +363,24 @@ thats it lol
 - [Simple Free Cam (press K+M to activate)](https://www.mixmods.com.br/2021/12/simple-free-cam-camera-livre/)
 
 - [Simple Regeneration](https://www.mixmods.com.br/2021/04/iii-vc-sa-simple-regeneration/)
+
+- [SkyGfx Extended](https://www.mixmods.com.br/2024/03/sa-skygfx/)
+
+- [SkyGrad](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
+
+- [Smuff Nut](https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/)
+
+- [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/)
+
+- [Street Musicians](https://libertycity.net/files/gta-san-andreas/192301-ulichnye-muzykanty-v4-0.html)
+
+- [Subterranean Sun (type sbsun and hold LMB)](https://www.mediafire.com/file/9qwpztplk4ua1cz/Subterranean_Sun.cs/file)
+
+- [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
+
+- [Truck Trailer](https://www.mixmods.com.br/2020/09/truck-trailer-by-kenking-caminhoes-com-reboque/)
+
+- [UFO Bar Lit](https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/)
+
+- [VehFuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/)
+
