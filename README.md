@@ -39,6 +39,7 @@ I'll try to give you guys the download link 👍</p>
 # Mods
 <details>
   <summary>Click to expand</summary>
+
 - [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
 
 - [Cheat Menu](https://www.gtainside.com/en/sanandreas/mods/125320-san-andreas-cheat-menu/)
