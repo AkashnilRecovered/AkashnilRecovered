@@ -22,13 +22,13 @@ Thanks to these youtubers for listing their recommended mods:
 [Just Gesha](https://www.youtube.com/@justGesha) for their video [A Faithful GTA San Andreas Overhaul Using Mods](https://www.youtube.com/watch?v=XMwzzZAkZCM&t=244s&pp=ygUKanVzdCBnZXNoYQ%3D%3D)
 
 # Download
-<p align="center">Soon
+<p align="center">https://mega.nz/file/PzxnQD6S#tnQp88amARjSDg7lIrjROolOrkmUSt7KFqqSetsnKPA
 <br><br>
 Check out the mods down there.
 <br><br>
 You can comment on this project and notify me if you got a crash...
 <br><br>
-I'll try to give you guys the download link 👍</p>
+Have fun enjoying with the vast modifications👍</p>
 
 # Contents
 <details>
