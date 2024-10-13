@@ -11,6 +11,12 @@ Please beware of loading this game into a new game, it might not work and crash.
 This modpack has some superpower mods, if you're okay with that.
 
 I recommend this completed [savegame](https://www.gtainside.com/en/sanandreas/savegames/53374-king-of-san-andreas-100-savegame/) for good working of the game.
+
+Thanks to these youtubers for listing their recommended mods:
+[Baigagee](https://www.youtube.com/@baigagee)
+[Catsmackaroo](https://www.youtube.com/@catsmackaroo)
+[Internet Rob](https://www.youtube.com/@InternetRob)
+[Just Gesha](https://www.youtube.com/@justGesha)
 # Download
 <p align="center">Soon
 <br><br>
@@ -75,7 +81,7 @@ I'll try to give you guys the download link 👍</p>
 
 - [Drug Dealer Fix](https://www.gtagarage.com/mods/show.php?id=29199)
 
-- L-D Luz.cs (which mod?)
+- [L-D Luz.cs (which mod?)](https://www.mediafire.com/file/c0a4aggmlwg1qr4/L-D_Luz_%2528JuniorDjjr%2529.cs/file)
 
 - [Life Situations](https://www.gtainside.com/en/sanandreas/mods/108394-life-situation-9-0)
 
@@ -191,6 +197,8 @@ thats it lol
 
 - [Cop Improved Intelligence](https://www.gtainside.com/en/sanandreas/mods/76432-police-intelligence-improvement-v2-0/)
 
+- [Desert Drag Race Track (near Verdant Meadows)](https://www.gtainside.com/en/sanandreas/maps/26243-cleo-dragtrack-final/)
+
 - [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
 
 - [Effects Mod](https://www.mixmods.com.br/2021/09/effects-mod-by-ezekiel-junior_djjr-efeitos-realistas/)
@@ -236,3 +244,23 @@ thats it lol
 - [IMFX (replaced some files with Combat FX Upgrade and Smooth Lensflare](https://www.mixmods.com.br/2018/09/imfx-improved-fx/)
 
 - Improved 2DFX (included with the [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)) has not been found. Just install it with the [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
+
+- [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
+
+- [Improved and Fixed Original Vegetation](https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/)
+
+- [IndieVehicles (included in Tuning Mod)](https://www.mixmods.com.br/2019/08/indievehicles/)
+
+- [Inventory System (with installed cheat and shops)](https://www.mixmods.com.br/2022/05/inventory-system/)
+
+- [Killing Jack (type kjack and press LMB)](https://www.mediafire.com/file/a37qnky49vv27g0/KJACK.rar/file)
+
+- [Ladders Mod](https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/)
+
+- [Laevateinn (normal flame recommended) (type laevateinn and a flaming katana spawns in your hand)](https://www.mediafire.com/file/3jbf9jbhrjilra3/Laevateinn.rar/file)
+
+- [Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/)
+
+- [Lighthouse Pyramid Fix](https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/)
+
+- [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/)
