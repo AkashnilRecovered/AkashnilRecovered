@@ -1,4 +1,3 @@
-# FYI, IT IS IN WIP.
 # Introduction to a Grand Theft Auto: San Andreas MODPACK, but not only a modpack, a revolution.
 <h3 align="center"></h3><br>
 <p align="center">
