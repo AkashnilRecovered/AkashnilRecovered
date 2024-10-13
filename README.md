@@ -1,5 +1,5 @@
 # FYI, IT IS IN WIP.
-# Introduction
+# Introduction to a GTA San Andreas MODPACK, but not only a modpack, a revolution.
 <h3 align="center"></h3><br>
 <p align="center">
 Welcome to the next evolution of San Andreas....
