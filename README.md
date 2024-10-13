@@ -389,3 +389,4 @@ thats it lol
 - [Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/)
 
 - [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
+</details>
