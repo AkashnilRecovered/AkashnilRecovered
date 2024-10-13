@@ -434,4 +434,5 @@ Initial release
 
 </details>
 
-<p align="center">So what do you think? Is it better than [Jayshai's San Andreas Modpack](https://gist.github.com/jayshai/53f82023e2792c2b260f6f7df34ce87c)? Let me know!<p align="center">
+<p align="center">So what do you think? Is it better than the ones given publicly on Github?
+ Let me know!<p align="center">
