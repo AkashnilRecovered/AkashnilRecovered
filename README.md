@@ -4,7 +4,7 @@
 <p align="center">
 Welcome to the next evolution of Grand Theft Auto: San Andreas....
  
-This modpack is of.... 21.5 GB.
+This modpack is of.... 18.2 GB.
 
 Please beware of loading this game into a new game, it might not work and crash.
 
@@ -298,6 +298,8 @@ thats it lol
 
 - [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 
+- [Original HQ Palms](https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/)
+
 - [Original Peds Vary Extended](https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/)
 
 - [Ped Tweaks](https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais-e-pedestres/)
@@ -318,7 +320,7 @@ thats it lol
 
 - [Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/)
 
-- [Ragdoll Bullet Physics](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/)
+- [Ragdoll Bullet Physics (type puppeter to manipulate ragdolls)](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/)
 
 - [Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/)
 
@@ -330,4 +332,32 @@ thats it lol
 
 - [Realistic Car Crash Physics](https://www.gtaall.com/gta-san-andreas/mods/19840-realistic-car-crash-physics.html)
 
-- []()
+- [Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/)
+
+- [Reload Mod (type R while holding a weapon)](https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/)
+
+- [Rhino Animated](https://www.mixmods.com.br/2020/09/rhino-animated-tanque-original-animado/)
+
+- [Robbery Mod](https://www.mixmods.com.br/2019/08/24-7-robbery-roubar-lojas/)
+
+- [RoSA Project Evolved (with Proper Player Retex) (public access)](https://www.mediafire.com/file/myuqu28ytpi3j6p/RoSA+Project+Evolved+-+July.7z/file)
+
+- Note: RoSA Project Evolved has not unlocked the Aug version yet, so I can't provide it because you and me don't believe on Patreon.
+
+- [SA Cutscene Characters for gameplay](https://www.mixmods.com.br/2021/03/sa-cutscene-characters-for-gameplay-personagens-convertidos/)
+
+- [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/)
+
+- [SADE Big Ear Telescope](https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/)
+
+- [Securicar Drops Money](https://www.mixmods.com.br/2018/09/securicar-drop-money-carros-forte-deixando-dinheiro/)
+
+- [Shoes on the wires](https://www.mixmods.com.br/2019/11/shoes-on-the-wires-tenis-pendurados-nos-fios/)
+
+- [Shoreline Waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/)
+
+- [Sidewalk Weeds](https://www.mixmods.com.br/2022/06/sa-sidewalk-weeds-grass-proc/)
+
+- [Simple Free Cam (press K+M to activate)](https://www.mixmods.com.br/2021/12/simple-free-cam-camera-livre/)
+
+- [Simple Regeneration](https://www.mixmods.com.br/2021/04/iii-vc-sa-simple-regeneration/)
