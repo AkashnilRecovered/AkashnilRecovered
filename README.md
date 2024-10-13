@@ -61,8 +61,6 @@ I'll try to give you guys the download link 👍</p>
 
 - [CLEO+](https://www.mixmods.com.br/2023/10/cleoplus/)
 
-- [CLEO](https://cleo.li/)
-
 - [Tuning Mod](https://www.mixmods.com.br/2019/06/tuning-mod/)
 
 - [Mind Control & Possession (what?) (type 9XCTR or 1+C)](https://www.gtainside.com/en/sanandreas/mods/135757-mind-control-and-possession-v-14-pc-perfect-version/)
@@ -87,12 +85,34 @@ I'll try to give you guys the download link 👍</p>
 
 - [Hangout with Story Characters](https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/)
 
-- RZL-Trainer(https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/)
+- [RZL-Trainer (press F2)](https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/)
 
-- Stories Sprinting(https://gtaforums.com/topic/968368-stories-sprinting/)
+- [Stories Sprinting](https://gtaforums.com/topic/968368-stories-sprinting/)
 
-- Surfly(https://www.gtaall.com/gta-san-andreas/cleo/44884-surf-and-fly.html)
+- [Surfly (press ALT+X)](https://www.gtaall.com/gta-san-andreas/cleo/44884-surf-and-fly.html)
 
 - [Trucks & Trailers](https://www.mixmods.com.br/2016/07/trucks-trailers-reboques-avioes-etc/)
 
--
+- [Wrecking Ball (press B)](https://libertycity.net/files/gta-san-andreas/8000-wrecking-ball.html)
+
+- [Project Urbanize](https://www.mixmods.com.br/2024/10/urbanize/)
+
+## From GTA SA Directory
+
+- [Fastman92 Limit Adjuster](https://fastman92.com/19-fastman92-limit-adjuster)
+
+- [NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/)
+
+- [Essentials Pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
+
+- [Cheat Menu by Grinch (press Ctrl+M)](https://github.com/user-grinch/Cheat-Menu)
+
+- [CrashInfo](https://www.mixmods.com.br/2022/09/crashinfo/)
+
+- [CLEO](https://cleo.li/)
+
+- [First Person (press "V" 4 times) (beta 3.5)](https://www.mixmods.com.br/2022/03/first-person-mod-primeira-pessoa/)
+
+- [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
+
+- [Gojo Satoru (type GOJO to activate and 00 to deactivate)](https://www.gtainside.com/en/sanandreas/mods/193370-update-gojo-satoru-jujutsu-kaisen-mod-new-features-amp-bug-fixes/video/1/)
