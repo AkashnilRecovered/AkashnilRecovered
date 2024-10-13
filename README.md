@@ -405,4 +405,15 @@ thats it lol
 
 - [Improved Vehicle Features V2.1.1](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/): Insanely overhauls the cars in the game. Downgraded to 2.0.2 because of potential clashing with FxsFuncs, which enables Effects Mod to work.
 
+<p align="right">
+  <a href="#download">▲ Back to top</a></p>
+
 </details>
+# Changelog 
+
+<details>
+  <summary>Click to expand</summary>
+
+# 1.0.0
+
+Initial release
