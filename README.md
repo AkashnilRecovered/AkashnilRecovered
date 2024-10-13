@@ -14,13 +14,13 @@ I recommend this completed [savegame](https://www.gtainside.com/en/sanandreas/sa
 
 Thanks to these youtubers for listing their recommended mods:
 
-[Baigagee](https://www.youtube.com/@baigagee) for his video [I Installed 130+ GTA San Andreas Mods](https://www.youtube.com/watch?v=Ajzk0Z_M6ag)
+[Baigagee](https://www.youtube.com/@baigagee) for their video [I Installed 130+ GTA San Andreas Mods](https://www.youtube.com/watch?v=Ajzk0Z_M6ag)
 
-[Catsmackaroo](https://www.youtube.com/@catsmackaroo) for his video [A Look At The Best GTA San Andreas Mods](https://www.youtube.com/watch?v=BGkmM0E0Ysk&t=142s)
+[Catsmackaroo](https://www.youtube.com/@catsmackaroo) for their video [A Look At The Best GTA San Andreas Mods](https://www.youtube.com/watch?v=BGkmM0E0Ysk&t=142s)
 
-[Internet Rob](https://www.youtube.com/@InternetRob) for his video [I Installed 57 GTA San Andreas Mods](https://www.youtube.com/watch?v=B5relHf21lo&t=204s&pp=ygUMaW50ZXJuZXQgcm9i)
+[Internet Rob](https://www.youtube.com/@InternetRob) for their video [I Installed 57 GTA San Andreas Mods](https://www.youtube.com/watch?v=B5relHf21lo&t=204s&pp=ygUMaW50ZXJuZXQgcm9i)
 
-[Just Gesha](https://www.youtube.com/@justGesha) for his video [A Faithful GTA San Andreas Overhaul Using Mods](https://www.youtube.com/watch?v=XMwzzZAkZCM&t=244s&pp=ygUKanVzdCBnZXNoYQ%3D%3D)
+[Just Gesha](https://www.youtube.com/@justGesha) for their video [A Faithful GTA San Andreas Overhaul Using Mods](https://www.youtube.com/watch?v=XMwzzZAkZCM&t=244s&pp=ygUKanVzdCBnZXNoYQ%3D%3D)
 
 # Download
 <p align="center">Soon
