@@ -134,7 +134,7 @@ I'll try to give you guys the download link 👍</p>
 
 - [SA 1.0 (pretty much required for all these mods)](https://www.gtaall.com/gta-san-andreas/programs/135576-gta-sa-exe-1-0-us-original-version.html)
 
-- [Improved Vehicle Features (2.0.2) (reason at issues and bugs)](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/)
+- [Improved Vehicle Features (2.0.2) (reason at optional mods)](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/)
 
 - [Large Address](https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/)
 
@@ -392,5 +392,16 @@ thats it lol
 
 <p align="right">
   <a href="#download">▲ Back to top</a></p>
+
+</details>
+# Optional Mods
+<details>
+  <summary>Click to expand</summary>
+
+- [Project Props](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/): Adds so much props to the game, making the world feel more vibrant. Removed due to a crash caused by an unknown reason.
+
+- [TTDISA OV](https://gtaforums.com/topic/939012-things-to-do-in-san-andreas-volume-ii/): Massively overhauls the gaming experience of the game. Removed due to a crash caused by this.
+
+- [Improved Vehicle Features V2.1.1](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/): Insanely overhauls the cars in the game. Downgraded to 2.0.2 because of potential clashing with FxsFuncs, which enables Effects Mod to work.
 
 </details>
