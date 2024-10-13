@@ -384,3 +384,8 @@ thats it lol
 
 - [VehFuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/)
 
+- [Welcome Las Venturas Sign Remastered](https://www.mixmods.com.br/2018/06/welcome-las-venturas-sign-remastered-placa-de-lv-em-hd/)
+
+- [Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/)
+
+- [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
