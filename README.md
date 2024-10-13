@@ -171,10 +171,26 @@ thats it lol
 
 - [Bullet Holes](https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/)
  
-- [Bullet View (press shift while aiming on sniper and then shoot to see your own bullet)](https://www.mixmods.com.br/2021/02/bullet-view-ver-bala-da-sniper-em-slow-motion/)
+- [Bullet View (hold shift while aiming on sniper and then shoot to see your own bullet)](https://www.mixmods.com.br/2021/02/bullet-view-ver-bala-da-sniper-em-slow-motion/)
 
 - [Busy Pedestrians](https://www.gtainside.com/en/sanandreas/mods/192256-busy-pedestrians/)
 
 - [Car Crash Look](https://www.mixmods.com.br/2019/04/car-crash-look-pedestres-olharem-ao-bater-o-carro/)
 
 - [Car Dealership (available near the raiding house in recruiting the families mission)](https://www.mixmods.com.br/2020/06/car-dealership-concessionaria-de-carros/)
+
+- [Cars Divert](https://www.mixmods.com.br/2015/03/cars-divert-v1-1-carros-desviarem-de-voce/)
+
+- [Clever Trams](https://www.mixmods.com.br/2020/01/clever-trams-bondes-mais-inteligentes/)
+
+- [Combat Improvement & Melee Overhaul](https://www.mixmods.com.br/2021/08/combat-improvement-and-melee-overhaul-melhorar-lutas/)
+
+- [Cop Improved Intelligence](https://www.gtainside.com/en/sanandreas/mods/76432-police-intelligence-improvement-v2-0/)
+
+- [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
+
+- [Effects Mod](https://www.mixmods.com.br/2021/09/effects-mod-by-ezekiel-junior_djjr-efeitos-realistas/)
+
+- [Effects Loader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/)
+
+- []()
