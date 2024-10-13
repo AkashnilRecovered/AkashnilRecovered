@@ -432,6 +432,6 @@ Initial release
   <a href="#download">▲ Back to top</a></p>
 
 </details>
->
+
 <p align="center" So what do you think? Is it better than the ones given publicly on Github?
  Let me know!<p align="center">
