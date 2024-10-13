@@ -1,8 +1,8 @@
 # FYI, IT IS IN WIP.
-# Introduction to a GTA San Andreas MODPACK, but not only a modpack, a revolution.
+# Introduction to a Grand Theft Auto: San Andreas MODPACK, but not only a modpack, a revolution.
 <h3 align="center"></h3><br>
 <p align="center">
-Welcome to the next evolution of San Andreas....
+Welcome to the next evolution of Grand Theft Auto: San Andreas....
  
 This modpack is of.... 21.5 GB.
 
@@ -168,6 +168,8 @@ thats it lol
 
 ## In modloader folder (BIG!)
 
+- [4K Definitive Loadscreens](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/)
+
 - [Essentials Pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
 
 - [3D Models in Ammu Nation](https://www.mixmods.com.br/2016/07/modelos-em-3d-na-ammu-nation/)
@@ -181,6 +183,8 @@ thats it lol
 - [Beta Gang Skins Added](https://www.mixmods.com.br/2020/11/beta-gang-skins-added-restaurar-gangue-beta/)
 
 - [Blaze (type blaze then go into a car or bike and press left click to activate the power)](https://www.mediafire.com/file/h2b1e5ldwn1odxn/Blaze.cs/file)
+
+- [Brazilian Speedbumps](https://libertycity.net/files/gta-san-andreas/139041-brazilskie-lezhachie-policejjskie.html)
 
 - [Breakable Vending Machines](https://www.mixmods.com.br/2022/08/sa-breakeable-vending-machines/)
 
@@ -236,7 +240,7 @@ thats it lol
 
 - [Haisen (type haisen and press LMB)](https://www.mediafire.com/file/9swail6hk9ghhap/Haisen.rar/file)
 
-- [Handshake Mod](https://www.mixmods.com.br/2020/08/handshake-mod-aperto-de-mao/)
+- [Handshake Mod (aim at the person and press Y))](https://www.mixmods.com.br/2020/08/handshake-mod-aperto-de-mao/)
 
 - [Hard Rain Remake](https://www.mixmods.com.br/2019/07/hard-rain-remake-pedestres-com-guarda-chuva/)
 
@@ -269,3 +273,59 @@ thats it lol
 - [Lighthouse Pyramid Fix](https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/)
 
 - [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/)
+
+- [Lively Trailers](https://libertycity.net/files/gta-san-andreas/179872-ozhivlennye-trejjlery.html)
+
+- [Low Life Animation](https://www.mixmods.com.br/2019/07/low-life-animation-v1-2-2-animacao-de-saude-baixa/)
+
+- [Lunatic Cage (type lcage and press LMB)](https://www.mediafire.com/file/2278ma4bfxfxmen/Lunatic_Cage.rar/file)
+
+- [Manual Driveby Remake (press RMB while in a car to shoot with your UZI or Tec-9 or SMG)](https://www.mixmods.com.br/2021/10/manual-driveby-remake-fixed-mirar-de-dentro-do-carro/)
+
+- [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/)
+
+- [Mobile Hands](https://www.gtainside.com/en/sanandreas/mods/168952-mobile-hands/)
+
+- [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/)
+
+- [No Grenade Stop](https://www.gtagarage.com/mods/show.php?id=9619)
+
+- [Nondle (type nondle and press LMB)](https://www.mediafire.com/file/kfnc1oyggx1hjg0/Non_D_Laser.cs/file)
+
+- [NPC Tuning](https://www.mixmods.com.br/2020/11/npc-tuning-trafego-com-carros-tunados/)
+
+- [Oeyama (type oeyama and hold LMB)](https://www.mediafire.com/file/6z4tgac6zjlzgz0/Oeyama.cs/file)
+
+- [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
+
+- [Original Peds Vary Extended](https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/)
+
+- [Ped Tweaks](https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais-e-pedestres/)
+
+- [PedFuncs](https://www.mixmods.com.br/2022/07/pedfuncs/)
+
+- [Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/)
+
+- [PedSkills](https://www.mixmods.com.br/2022/08/pedskills/)
+
+- [Pimp My Car Final (get into a vehicle and press 5)](https://www.gtagarage.com/mods/show.php?id=4729)
+
+- [Planes Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/)
+
+- [Project Immerse Yourself (with optional)](https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/)
+
+- [Proper Fixes](https://www.mixmods.com.br/2024/02/sa-proper-fixes/)
+
+- [Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/)
+
+- [Ragdoll Bullet Physics](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/)
+
+- [Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/)
+
+- [Real Peds Overhaul](https://gtaforums.com/topic/933719-sa-real-peds-overhaul/)
+
+- [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/)
+
+- [Realistic Beach](https://www.mixmods.com.br/2020/03/praia-realista-v2-6/)
+
+- []()
