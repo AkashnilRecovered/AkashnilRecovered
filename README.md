@@ -26,10 +26,16 @@ I'll try to give you guys the download link 👍</p>
 - [Issues & Bugs](#issues--bugs)
 
 # Requirements
+<details>
+  <summary>Click to expand</summary>
+
 - *Atleast 25GB of disk space*
 - *Latest version of this modpack*
 
 # Installation Guide
+<details>
+  <summary>Click to expand</summary>
+
 1. Download the modpack.
 2. Extract the files from the modpack into any folder of your choice.
 3. Done!
@@ -43,3 +49,7 @@ I'll try to give you guys the download link 👍</p>
 - [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
 
 - [Cheat Menu](https://www.gtainside.com/en/sanandreas/mods/125320-san-andreas-cheat-menu/)
+
+- [CLEO+](https://www.mixmods.com.br/2023/10/cleoplus/)
+
+- [CLEO](https://cleo.li/)
