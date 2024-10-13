@@ -193,4 +193,28 @@ thats it lol
 
 - [Effects Loader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/)
 
-- []()
+- [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
+
+- [Enterable Vehicles](https://libertycity.net/files/gta-san-andreas/54621-enterable-vehicles-v2.0.html)
+
+- [Fair Police](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/)
+
+- [Flying Stuff](https://www.mixmods.com.br/2020/02/flying-stuff-folhas-etc-caindo-pela-tela/)
+
+- [Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/)
+
+- [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/)
+
+- [Gojo Satoru (type GOJO to activate and 00 to deactivate)](https://www.gtainside.com/en/sanandreas/mods/193370-update-gojo-satoru-jujutsu-kaisen-mod-new-features-amp-bug-fixes/video/1/)
+
+- [Graffiti Anywhere (use your spray can and scroll through 4 graffitis and pick your chosen one, then just hold LMB and it's done)](https://www.mixmods.com.br/2020/11/graffiti-anywhere-v1-1-pichar-em-qualquer-lugar/)
+
+- [GraphicsTweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
+
+- [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/)
+
+- [GTA IV Carjacking Style](https://www.gtainside.com/en/sanandreas/mods/144079-gta-sa-iv-carjacking-camera-style/)
+
+- [Gungnir (type gung and press LMB)](https://www.mediafire.com/file/8dicncbkudq90dr/Gungnir.rar/file)
+
+- [Haisen (type haisen and press LMB)](https://www.mediafire.com/file/9swail6hk9ghhap/Haisen.rar/file)
