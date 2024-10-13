@@ -328,4 +328,6 @@ thats it lol
 
 - [Realistic Beach](https://www.mixmods.com.br/2020/03/praia-realista-v2-6/)
 
+- [Realistic Car Crash Physics](https://www.gtaall.com/gta-san-andreas/mods/19840-realistic-car-crash-physics.html)
+
 - []()
