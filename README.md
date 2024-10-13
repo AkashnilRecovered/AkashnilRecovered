@@ -18,12 +18,15 @@ You can comment on this project and notify me if you got a crash...
 I'll try to give you guys the download link 👍</p>
 
 # Contents
+<details>
+  <summary>Click to expand</summary>
 - [Requirements](#requirements)
 - [Installation Guide](#installation-guide)
 - [Mods](#mods)
 - [Optional Mods](#optional-mods)
 - [Changelog](#changelog)
 - [Issues & Bugs](#issues--bugs)
+</details>
 
 # Requirements
 <details>
@@ -32,6 +35,7 @@ I'll try to give you guys the download link 👍</p>
 - *Atleast 25GB of disk space*
 - *Latest version of this modpack*
 </details>
+
 # Installation Guide
 <details>
   <summary>Click to expand</summary>
@@ -42,6 +46,7 @@ I'll try to give you guys the download link 👍</p>
 <p align="right">
   <a href="#download">▲ Back to top</a></p>
 </details>
+
 # Mods
 <details>
   <summary>Click to expand</summary>
