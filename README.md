@@ -53,6 +53,8 @@ I'll try to give you guys the download link 👍</p>
 <details>
   <summary>Click to expand</summary>
 
+## From CLEO folder
+
 - [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
 
 - [Cheat Menu (press Ctrl+C)](https://www.gtainside.com/en/sanandreas/mods/125320-san-andreas-cheat-menu/)
@@ -84,3 +86,13 @@ I'll try to give you guys the download link 👍</p>
 - [NewOpcodes](https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/)
 
 - [Hangout with Story Characters](https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/)
+
+- RZL-Trainer(https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/)
+
+- Stories Sprinting(https://gtaforums.com/topic/968368-stories-sprinting/)
+
+- Surfly(https://www.gtaall.com/gta-san-andreas/cleo/44884-surf-and-fly.html)
+
+- [Trucks & Trailers](https://www.mixmods.com.br/2016/07/trucks-trailers-reboques-avioes-etc/)
+
+-
