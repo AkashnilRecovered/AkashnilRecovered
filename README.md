@@ -394,8 +394,8 @@ thats it lol
   <a href="#download">▲ Back to top</a></p>
 
 </details>
-# Optional Mods
 
+# Optional Mods
 <details>
   <summary>Click to expand</summary>
 
