@@ -13,6 +13,7 @@ This modpack has some superpower mods, if you're okay with that.
 I recommend this completed [savegame](https://www.gtainside.com/en/sanandreas/savegames/53374-king-of-san-andreas-100-savegame/) for good working of the game.
 
 Thanks to these youtubers for listing their recommended mods:
+
 [Baigagee](https://www.youtube.com/@baigagee)
 
 [Catsmackaroo](https://www.youtube.com/@catsmackaroo)
