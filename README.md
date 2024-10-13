@@ -55,6 +55,8 @@ I'll try to give you guys the download link 👍</p>
 <details>
   <summary>Click to expand</summary>
 
+(Some mods are not included in the given mod list. Please comment them here and from which folder so I can list them in this text file.)
+
 ## From CLEO folder
 
 - [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
@@ -220,3 +222,17 @@ thats it lol
 - [Gungnir (type gung and press LMB)](https://www.mediafire.com/file/8dicncbkudq90dr/Gungnir.rar/file)
 
 - [Haisen (type haisen and press LMB)](https://www.mediafire.com/file/9swail6hk9ghhap/Haisen.rar/file)
+
+- [Handshake Mod](https://www.mixmods.com.br/2020/08/handshake-mod-aperto-de-mao/)
+
+- [Hard Rain Remake](https://www.mixmods.com.br/2019/07/hard-rain-remake-pedestres-com-guarda-chuva/)
+
+- [Hisouten (type hisouten and press LMB)](https://www.mediafire.com/file/lmi0imomz19yoia/Hisouten.cs/file)
+
+- [Hoyoku (type hoyoku and press LMB)](https://www.mediafire.com/file/zyatxuczmp1u0u9/Hoyoku.rar/file)
+
+- [Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/)
+
+- [IMFX (replaced some files with Combat FX Upgrade and Smooth Lensflare](https://www.mixmods.com.br/2018/09/imfx-improved-fx/)
+
+- Improved 2DFX (included with the [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)) has not been found. Just install it with the [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
