@@ -9,6 +9,8 @@ This modpack is of.... 21.5 GB.
 Please beware of loading this game into a new game, it might not work and crash.
 
 This modpack has some superpower mods, if you're okay with that.
+
+I recommend this completed [savegame](https://www.gtainside.com/en/sanandreas/savegames/53374-king-of-san-andreas-100-savegame/) for good working of the game.
 # Download
 <p align="center">Soon
 <br><br>
