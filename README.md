@@ -433,8 +433,6 @@ Initial release
 
 - [Improved Vehicle Features](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) has problems with [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/). If it got fixed, I would have already upgraded [Improved Vehicle Features](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) from 2.0.2 to 2.1.1.
 
-- Trams in San Fierro have white textures of people which was caused by an unknown mod.
-
 - [Ragdoll Bullet Physics](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/) with [Improved Vehicle Features 2.0.2](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) causes cars to become black.
 
 - You can report your issues by using [CrashInfo](https://www.mixmods.com.br/2022/09/crashinfo/) and post the error code here. You can also use [SCRLog](https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/). (Not recommended using SCRLog after sending it here. Only use for crashes.) to detect CLEO mods
