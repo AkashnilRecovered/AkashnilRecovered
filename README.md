@@ -46,8 +46,9 @@ Have fun enjoying with the vast modifications👍</p>
 <details>
   <summary>Click to expand</summary>
 
-- *Atleast 25GB of disk space*
-- *Latest version of this modpack*
+- *Atleast the required amount of disk space (18.3 GB or more)*
+- *A really good processor (from i5 to i7). Also it works on i3 but may cause lag*
+- *4 to 6 GB of RAM (2 GB doesn't work as expected)*
 </details>
 
 # Installation Guide
