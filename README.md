@@ -102,6 +102,8 @@ Have fun enjoying with the vast modifications👍</p>
 
 - [RZL-Trainer (press F2)](https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/)
 
+- Note: [RZL-Trainer](https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/) is configured to the cheat settings. You may to reset defaults using the Reset Defaults option in Settings.
+
 - [Stories Sprinting](https://gtaforums.com/topic/968368-stories-sprinting/)
 
 - [Surfly (press ALT+X)](https://www.gtaall.com/gta-san-andreas/cleo/44884-surf-and-fly.html)
