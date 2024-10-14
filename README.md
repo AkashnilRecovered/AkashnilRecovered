@@ -430,7 +430,7 @@ Initial release
 
 - Trams in San Fierro have white textures of people which was caused by an unknown mod.
 
-- You can report your issues by using [CrashInfo](https://www.mixmods.com.br/2022/09/crashinfo/) and post the error code here. You can also use [SCRLog](https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/). (Not recommended using SCRLog after sending it here. Only use for crashes.) to detect ClEO mods
+- You can report your issues by using [CrashInfo](https://www.mixmods.com.br/2022/09/crashinfo/) and post the error code here. You can also use [SCRLog](https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/). (Not recommended using SCRLog after sending it here. Only use for crashes.) to detect CLEO mods
 crashing.
 
 <p align="right">
