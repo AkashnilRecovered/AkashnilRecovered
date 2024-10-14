@@ -428,6 +428,8 @@ Initial release
 
 - [ImVehFt 2.1.1](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) has problems with [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/). If it got fixed, I would have already upgraded [ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) from 2.0.2 to 2.1.1.
 
+- Trams in San Fierro have white textures of people which was caused by an unknown mod.
+
 <p align="right">
   <a href="#download">▲ Back to top</a></p>
 
