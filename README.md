@@ -415,8 +415,8 @@ thats it lol
 
 # 1.0.1
 
-Fixed trams having white textures of people.
- Note: I can't provide the updated download link due to slow uploading speed. Please delete these files "tram.dff" and "tram.txd" in Modloader\Enterable Vehicles
+Fixed trams having white textures of people
+ Note: I can't provide the updated download link due to slow uploading speed. Please delete these files "tram.dff" and "tram.txd" in Modloader\Enterable Vehicles so it can remove the textures
 
 # 1.0.0
 
