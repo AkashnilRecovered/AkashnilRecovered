@@ -1,6 +1,9 @@
 # Introduction to a Grand Theft Auto: San Andreas MODPACK, but not only a modpack, a revolution.
 <h3 align="center"></h3><br>
 <p align="center">
+
+(New [gist](https://gist.github.com/AkashnilRecovered/77a409f594fa5851547d92d4a2b890ad) has been published. Comment there for your reports.)
+
 Welcome to the next evolution of Grand Theft Auto: San Andreas....
  
 This modpack is of.... 18.2 GB.
