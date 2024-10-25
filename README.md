@@ -49,6 +49,7 @@ Have fun enjoying with the vast modifications👍</p>
 - *Atleast the required amount of disk space (18.3 GB or more)*
 - *A really good processor (from Intel Core i5 to Intel Core i7 or AMD Ryzen 3 or AMD Ryzen 5). Also it works on Intel Core i3 or any AMD but may cause lag*
 - *4 to 6 GB of RAM (2 GB doesn't work as expected)*
+- *An audio device (GTA San Andreas cannot run without any audio device installed)*
 </details>
 
 # Installation Guide
