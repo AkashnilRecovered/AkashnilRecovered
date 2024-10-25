@@ -1,8 +1,5 @@
 # Introduction to a Grand Theft Auto: San Andreas MODPACK, but not only a modpack, a revolution.
-<h3 align="center"></h3><br>
-<p align="center">
-
-(New [gist](https://gist.github.com/AkashnilRecovered/77a409f594fa5851547d92d4a2b890ad) has been published. Comment there for your reports.)
+<h3 align="center">(New [gist](https://gist.github.com/AkashnilRecovered/77a409f594fa5851547d92d4a2b890ad) has been published. Comment there for your reports.)
 
 Welcome to the next evolution of Grand Theft Auto: San Andreas....
  
@@ -23,6 +20,9 @@ Thanks to these youtubers for listing their recommended mods:
 [Internet Rob](https://www.youtube.com/@InternetRob) for their video [I Installed 57 GTA San Andreas Mods](https://www.youtube.com/watch?v=B5relHf21lo&t=204s&pp=ygUMaW50ZXJuZXQgcm9i)
 
 [Just Gesha](https://www.youtube.com/@justGesha) for their video [A Faithful GTA San Andreas Overhaul Using Mods](https://www.youtube.com/watch?v=XMwzzZAkZCM&t=244s&pp=ygUKanVzdCBnZXNoYQ%3D%3D)
+</h3><br>
+<p align="center">
+
 
 # Download
 <p align="center">https://mega.nz/file/PzxnQD6S#tnQp88amARjSDg7lIrjROolOrkmUSt7KFqqSetsnKPA (outdated 1.0.0 (see changelog))
